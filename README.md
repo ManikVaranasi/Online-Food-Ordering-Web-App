@@ -1,24 +1,8 @@
-[![DOI](https://zenodo.org/badge/255074370.svg)](https://zenodo.org/doi/10.5281/zenodo.10499090)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/LICENSE)
-[![Code Coverage](https://codecov.io/gh/NCSU-Fall-2022-SE-Project-Team-11/XpensAuditor---Group-11/branch/main/graphs/badge.svg)](https://codecov.io)
-![GitHub contributors](https://img.shields.io/badge/Contributors-1-brightgreen)
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/edit/master/README.md)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/kaushikjadhav01/Online-Food-Ordering-Web-App)
-![GitHub issues](https://img.shields.io/github/issues/kaushikjadhav01/Online-Food-Ordering-Web-App)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/kaushikjadhav01/Online-Food-Ordering-Web-App)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/kaushikjadhav01/Online-Food-Ordering-Web-App.svg)](https://img.shields.io/github/repo-size/kaushikjadhav01/Online-Food-Ordering-Web-App.svg)
-[![GitHub last commit](https://img.shields.io/github/last-commit/kaushikjadhav01/Online-Food-Ordering-Web-App)](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/commits/master)
-![GitHub language count](https://img.shields.io/github/languages/count/kaushikjadhav01/Online-Food-Ordering-Web-App)
-[![Commit Acitivity](https://img.shields.io/github/commit-activity/m/kaushikjadhav01/Online-Food-Ordering-Web-App)](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App)
-[![Code Size](https://img.shields.io/github/languages/code-size/kaushikjadhav01/Online-Food-Ordering-Web-App)](mpp-backend)
-![GitHub forks](https://img.shields.io/github/forks/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
-![GitHub stars](https://img.shields.io/github/stars/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
-
 # Online-Food-Ordering-Web-App
 Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS.
 ## System Description and Functions
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png"><br/>
+<img width="1900" height="1049" alt="Screenshot 2025-09-02 170054" src="https://github.com/user-attachments/assets/a943160a-ff8e-4fd2-9ea2-9a8078431116" />
+
 
 **Admin Creds:** <br/>
 Admin Login & Password (You can change this in phpmyadmin):<br/>
@@ -66,5 +50,21 @@ Admin can:<br/>
 <li>Upload the food.sql file and import it</li>
 <li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
 </ol>
+##Screenshots
+<img width="1914" height="1067" alt="Screenshot 2025-09-02 170432" src="https://github.com/user-attachments/assets/988b32e8-9f5f-47a5-b51a-fb06e5599713" />
+<img width="1890" height="1051" alt="Screenshot 2025-09-02 170552" src="https://github.com/user-attachments/assets/c7dac415-ffa1-419e-af73-6d36dbd23388" />
+<img width="1883" height="948" alt="Screenshot 2024-04-22 210920" src="https://github.com/user-attachments/assets/75c9855c-ed52-43ee-9fe3-6649573a8eb0" />
+##Admin
+<img width="1904" height="938" alt="Screenshot 2024-04-22 211137" src="https://github.com/user-attachments/assets/f67df9c6-03e6-42b5-a745-a7799f3bc3db" />
+<img width="1890" height="938" alt="Screenshot 2024-04-22 211235" src="https://github.com/user-attachments/assets/eb3f9a95-1a6f-475a-a42b-234c4a16ab7e" />
+##php
+<img width="1879" height="930" alt="Screenshot 2024-04-23 173707" src="https://github.com/user-attachments/assets/a441abc6-8fba-4b61-bcb1-a597ad76f9dc" />
+<img width="1901" height="1062" alt="Screenshot 2025-09-02 171013" src="https://github.com/user-attachments/assets/60bad76c-c59e-4e65-82c7-d84e83c33141" />
+
+
+
+
+
+
 
 
