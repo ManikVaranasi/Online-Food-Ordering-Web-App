@@ -10,7 +10,7 @@ Install Git GUI
 
 Guide - https://git-scm.com/downloads/guis/
 
-Project Overview - https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/main/README.md
+Project Overview - https://github.com/ManikVaranasi/Online-Food-Ordering-Web-App/edit/main/CONTRIBUTING.md
 
 **Types of code changes and contributions we accept**
 
